@@ -16,5 +16,25 @@ We want to use DNN to modeling the furniture.
 
 
 
+## Step
+
+
+4/17 :  風格轉換 (三種比較)  
+4/24 : Presentation  
+
+
+5/1 
+5/8
+5/15
+5/22
+
+
+5/29
+6/5
+6/12
+6/19
+6/26
+7/3
+
 
 
