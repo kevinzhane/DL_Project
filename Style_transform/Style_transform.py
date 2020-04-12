@@ -12,7 +12,7 @@ from keras import backend as K
 base_image_path = "images/input.jpg"
 style_reference_image_path = "images/style.jpg"
 result_prefix = "output"
-iterations = 10
+iterations = 5
 
 # 原圖與風格圖佔output比重
 content_weight = 0.025
@@ -199,7 +199,7 @@ for i in range(iterations):
     print('Current loss value:', min_val)
     # 儲存每一週期的output合成圖
     img = deprocess_image(x.copy())
-    fname = result_prefix + '_at_iteration_%d.png' % i
+    fname = 'output/' + result_prefix + '_at_iteration_%d.png' % i
     imsave(fname, img)
     end_time = time.time()
     print('Image saved as', fname)
