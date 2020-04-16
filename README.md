@@ -19,7 +19,8 @@ We want to use DNN to modeling the furniture.
 ## Step
 
 
-4/17 :  風格轉換 (三種比較)  
+4/17 :  練習3種分類器 svm,autoencoder,linear regression,並且藉由前處理與調整模組來增加效果。
+
 4/24 : Presentation  
 
 
