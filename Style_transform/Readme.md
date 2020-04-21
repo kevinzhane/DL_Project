@@ -12,4 +12,8 @@
 3. python3 Style_transform.py
 4. result in output folder
 
+src: https://ithelp.ithome.com.tw/articles/10192738  
 
+# Conclution
+
+The images of combination is rarely no different after 50 iteration.
