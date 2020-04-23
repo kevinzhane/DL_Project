@@ -24,7 +24,7 @@ solve_cudnn_error()
 input_img = Input(shape=(28, 28, 1))  # adapt this if using `channels_first` image data format
 
 
-for i in range(1,20):
+for i in range(1,2):
     filter_num = i*4
     ## Build the Convolution autoencoders model
 
